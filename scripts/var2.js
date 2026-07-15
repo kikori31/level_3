@@ -159,3 +159,4 @@ function childNumMinus() {
 function totalFunc() {
     totalGuest.textContent = (Number(adultNum.textContent)+Number(childNum.textContent)) +'명';
 }
+// 함수
